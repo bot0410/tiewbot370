@@ -8,7 +8,7 @@ var prefix = "_";
 const warns = JSON.parse(fs.readFileSync('./warns.json'))
 
 
-client.login(process.env.TOKEN)
+client.login(NTMwNDE3NDk1OTgzNTIxNzky.DzS5Tg.0eeONE2Kn0_M2iASyRM_rBMmcko)
 
 client.on('guildMemberAdd', member =>{
     let embed = new Discord.RichEmbed()
